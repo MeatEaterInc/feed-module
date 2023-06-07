@@ -4547,9 +4547,9 @@ fb-watchman@^2.0.0:
   dependencies:
     bser "^2.0.0"
 
-feed@MeatEaterInc/feed#529dcf9e3eb31e87f5e46e680e981fc003badd42:
+feed@MeatEaterInc/feed#8b10d8f53ac6af66630194202e632c68debdf5d5:
   version "4.2.2"
-  resolved "https://codeload.github.com/MeatEaterInc/feed/tar.gz/529dcf9e3eb31e87f5e46e680e981fc003badd42"
+  resolved "https://codeload.github.com/MeatEaterInc/feed/tar.gz/8b10d8f53ac6af66630194202e632c68debdf5d5"
   dependencies:
     xml-js "^1.6.11"
 
