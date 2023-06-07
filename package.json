@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.12.1",
-    "feed": "MeatEaterInc/feed#529dcf9e3eb31e87f5e46e680e981fc003badd42"
+    "feed": "MeatEaterInc/feed#8b10d8f53ac6af66630194202e632c68debdf5d5"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
